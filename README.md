@@ -1,1 +1,1 @@
-# Host-a-Website-on-Amazon-S3
+# Host a Website on Amazon S3
